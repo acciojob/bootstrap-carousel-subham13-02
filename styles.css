@@ -1,2 +1,10 @@
-
+.first-slide .second-slide .third-slide .fourth-slide .fifth-slide{
+	height:400px;
+	display:flex;
+	dispay:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:grey;
+	font-size:40px;
+}
 /* Your CSS Code here. */
