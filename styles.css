@@ -1,4 +1,4 @@
-.first-slide .second-slide .third-slide .fourth-slide .fifth-slide{
+.first-slide, .second-slide, .third-slide ,.fourth-slide, .fifth-slide{
 	height:400px;
 	display:flex;
 	dispay:flex;
